@@ -1,0 +1,21 @@
+:root {
+  --color-paper: #f4f5f7;
+  --color-surface: #ffffff;
+  --color-ink: #141a33;
+  --color-on-accent: #ffffff;
+  --color-muted: #555c70;
+  --color-line: #dcdfe6;
+  --color-divider: #eceef2;
+  --color-empty: #e8eaf0;
+  --color-blue: #2c5bf0;
+  --color-blue-tint: #dce4fd;
+  --color-blue-ink: #1e3fb0;
+  --color-sun-tint: #ffe7a8;
+  --color-sun-ink: #4a3a10;
+  --color-grey-tint: #e3e6ec;
+  --color-grey-ink: #2b3145;
+
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro', 'SF Pro Text', 'Inter', system-ui, sans-serif;
+
+  --shadow-fab: 0 8px 20px rgba(43, 92, 240, 0.35);
+}
